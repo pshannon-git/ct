@@ -1,0 +1,29 @@
+{
+  "channels": [
+    {
+      "name": "Channel Name",
+      "videos": [
+        {
+          "id": "VIDEO_ID",
+          "sectionStart": 10,
+          "sectionEnd": 300
+        },
+        {
+          "id": "ANOTHER_VIDEO_ID",
+          "sectionStart": 0,
+          "sectionEnd": 200
+        }
+      ]
+    },
+    {
+      "name": "Another Channel Name",
+      "videos": [
+        {
+          "id": "DIFFERENT_VIDEO_ID",
+          "sectionStart": 0,
+          "sectionEnd": 150
+        }
+      ]
+    }
+  ]
+}
